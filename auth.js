@@ -1,4 +1,3 @@
-// code update
 function login(username, password) {
     // Kiểm tra kiểu dữ liệu
     if (
