@@ -1,2 +1,2 @@
 # vlu-qe-pipeline-master
-main
+VLU CI/CD Pipeline Lab 01
